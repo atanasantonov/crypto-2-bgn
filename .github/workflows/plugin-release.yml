@@ -27,7 +27,7 @@ jobs:
         with:
           generate-zip: true
         env:
-          SLUG: airport-transfers
+          SLUG: crypto-2-bgn
           VERSION: ${{ steps.vars.outputs.tag }}
           SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
           SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
