@@ -4,7 +4,7 @@ Tags: converter, coinmarketcap, crypto, currencies
 Requires at least: 3.0.1
 Tested up to: 6.1.1
 Requires PHP: 5.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ If you like the plugin and it helps you to offer better services at your site yo
 (BTC) 1ATAnAsK2wwDGK6UKrUewJDWtZ6kgJXEYu
 
 == Changelog ==
+
+= 1.0.2 =
+* Release action fix.
 
 = 1.0.0 =
 * Updated to work with Coinmarketcap API v2.
