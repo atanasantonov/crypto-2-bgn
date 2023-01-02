@@ -27,7 +27,7 @@ jobs:
         with:
           generate-zip: true
         env:
-          SLUG: crypto-2-bgn
+          SLUG: crypto2bgn
           VERSION: ${{ steps.vars.outputs.tag }}
           SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
           SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
@@ -37,7 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
-          files: crypto-2-bgn.zip
+          files: crypto2bgn.zip
           tag_name: ${{ steps.vars.outputs.tag }}
           name: Release ${{ steps.vars.outputs.tag }}
           body: |
