@@ -3,7 +3,7 @@
 Plugin Name: Crypto2BGN
 Plugin URI:  https://github.com/atanasantonov/crypto-2-bgn
 Description: Coinmarketcap.com based plugin for conversion of cryptocurrencis to BGN
-Version:     1.0.2
+Version:     1.0.3
 Author:      Atanas Antonov
 Author URI:  https://unax.org/
 License:     GPL2
