@@ -1,4 +1,4 @@
-=== Airport Transfers ===
+=== Crypto2BGN ===
 Contributors: nant82
 Tags: converter, coinmarketcap, crypto, currencies
 Requires at least: 3.0.1
